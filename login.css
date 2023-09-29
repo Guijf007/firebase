@@ -1,0 +1,18 @@
+#corpao{
+    background-color: aliceblue;
+}
+#d1{
+    color: white;
+    margin-top: 150px;
+    margin-left: 350px;
+    background-color: forestgreen;
+    border-radius: 10px;
+    width: 600px;
+    height: 400px;
+}
+#infos{
+    padding-left: 100px ;
+}
+#registrar{
+    margin-left: 227px;
+}
